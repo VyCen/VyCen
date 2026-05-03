@@ -1,20 +1,50 @@
-<div align="center">
+<img src="https://i.postimg.cc/GhTDMJFg/photo-1.jpg" alt="banner" width="100%">
 
-### 🕹️ play pacman
+# Hi there 👋
 
-<a href="https://VyCen.github.io/pacman">
-  <img src="https://img.shields.io/badge/PLAY-PACMAN-A78BFA?style=for-the-badge&logo=ghostery&logoColor=white" />
-</a>
+Welcome to my GitHub profile!  
+I joined GitHub on **May 3, 2026**.
 
-</div>
+---
 
+## 🌱 About Me / Sobre mí
 
-<div align="center">
+**EN:**  
+I'm passionate about technology, coding, and continuous learning.  
+Currently exploring new tools and building projects that matter to me.  
+Always open to connecting and collaborating with others.
 
-### 🧱 play breakout
+**ES:**  
+Me apasiona la tecnología, la programación y el aprendizaje continuo.  
+Actualmente exploro nuevas herramientas y construyo proyectos que me importan.  
+Siempre abierto a conectar y colaborar con otros.
 
-<a href="https://VyCen.github.io/breakout">
-  <img src="https://img.shields.io/badge/PLAY-BREAKOUT-A78BFA?style=for-the-badge" />
-</a>
+---
 
-</div>
+## 🛠️ Tech & Tools / Tecnologías y herramientas
+
+**EN:**  
+- Languages: what I'm learning and using  
+- Tools: what helps me build  
+- Interests: what drives my curiosity  
+
+**ES:**  
+- Lenguajes: lo que aprendo y uso  
+- Herramientas: lo que me ayuda a construir  
+- Intereses: lo que despierta mi curiosidad  
+
+---
+
+## 📫 Let's connect / Conectemos
+
+**EN:**  
+Feel free to reach out or check out my projects below.  
+Thanks for stopping by!
+
+**ES:**  
+No dudes en contactarme o revisar mis proyectos aquí abajo.  
+¡Gracias por pasar!
+
+---
+
+⭐ *From [VyCen](https://github.com/VyCen)*
