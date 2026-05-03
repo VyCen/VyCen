@@ -7,3 +7,14 @@
 </a>
 
 </div>
+
+
+<div align="center">
+
+### 🧱 play breakout
+
+<a href="https://VyCen.github.io/breakout">
+  <img src="https://img.shields.io/badge/PLAY-BREAKOUT-A78BFA?style=for-the-badge" />
+</a>
+
+</div>
