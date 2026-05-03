@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/GhTDMJFg/photo-1.jpg" alt="banner" width="100%">
+<img src="https://i.postimg.cc/C5q27rwJ/0ca59fab-75b2-438a-9b91-7e418cc705e2.png" alt="banner" width="100%">
 
 # Hi there 👋
 
